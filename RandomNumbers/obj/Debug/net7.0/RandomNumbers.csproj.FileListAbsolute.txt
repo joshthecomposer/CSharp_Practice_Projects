@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/bin/Debug/net7.0/RandomNumbers
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/bin/Debug/net7.0/RandomNumbers.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/bin/Debug/net7.0/RandomNumbers.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/bin/Debug/net7.0/RandomNumbers.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/bin/Debug/net7.0/RandomNumbers.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/refint/RandomNumbers.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/RandomNumbers.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RandomNumbers/obj/Debug/net7.0/ref/RandomNumbers.dll

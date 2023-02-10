@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/bin/Debug/net7.0/VariablesAndTypes
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/bin/Debug/net7.0/VariablesAndTypes.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/bin/Debug/net7.0/VariablesAndTypes.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/bin/Debug/net7.0/VariablesAndTypes.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/bin/Debug/net7.0/VariablesAndTypes.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/refint/VariablesAndTypes.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/VariablesAndTypes.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/VariablesAndTypes/obj/Debug/net7.0/ref/VariablesAndTypes.dll
