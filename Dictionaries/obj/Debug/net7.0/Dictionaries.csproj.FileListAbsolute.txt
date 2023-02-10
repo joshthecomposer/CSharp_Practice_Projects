@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/bin/Debug/net7.0/Dictionaries
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/bin/Debug/net7.0/Dictionaries.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/bin/Debug/net7.0/Dictionaries.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/bin/Debug/net7.0/Dictionaries.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/bin/Debug/net7.0/Dictionaries.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/refint/Dictionaries.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/Dictionaries.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Dictionaries/obj/Debug/net7.0/ref/Dictionaries.dll
