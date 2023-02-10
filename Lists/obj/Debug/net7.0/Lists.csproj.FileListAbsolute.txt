@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/bin/Debug/net7.0/Lists
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/bin/Debug/net7.0/Lists.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Lists/obj/Debug/net7.0/ref/Lists.dll
