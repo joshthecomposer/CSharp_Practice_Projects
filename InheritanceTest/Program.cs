@@ -1,15 +1,17 @@
-﻿Cat cat = new Cat("House cat", "Tabby");
+﻿Cat cat = new Cat("House cat", "Tabby", "Meow!");
 
 Console.WriteLine(cat.Species);
 Console.WriteLine(cat.IsMammal);
 
-Dog dog = new Dog("Wolf", "Lorge");
+Dog dog = new Dog("Wolf", "Lorge", "Bark!");
 
 Console.WriteLine(dog.Species);
 Console.WriteLine(dog.IsMammal);
 Console.WriteLine(dog.Size);
 
-Bird bird = new Bird("Chicken", false);
+Lizard lizard = new Lizard("Gecko", "Carnivore", 10, "TONGUE SLITHER" );
+
+Bird bird = new Bird("Chicken", false, 5, "Tweet");
 
 Console.WriteLine(bird.CanFly);
 
@@ -31,3 +33,6 @@ foreach(Animal a in animals)
         Console.WriteLine("That's a cute " + d.Size + " dog!");
     }
 }
+
+lizard.MakeNoise();
+cat.MakeNoise();

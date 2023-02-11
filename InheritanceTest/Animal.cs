@@ -1,8 +1,9 @@
-class Animal 
+abstract class Animal 
 {
     protected string species;
     protected string diet;
     protected bool isMammal;
+    protected string noise;
 
     public string Species 
     {
@@ -20,10 +21,13 @@ class Animal
         set { isMammal = value; }
     }
 
-    public Animal(string species, string diet, bool isMammal)
+    public Animal(string species, string diet, bool isMammal, string noise)
     {
         this.species = species;
         this.diet = diet;
         this.isMammal = isMammal;
+        this.noise = noise;
     }
+
+    public abstract void MakeNoise();
 }
