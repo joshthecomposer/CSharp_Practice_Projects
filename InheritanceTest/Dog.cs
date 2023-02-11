@@ -8,9 +8,9 @@ class Dog : Animal
         set { this.size = value; }
     }
 
-    public Dog(string size, string species) : base(species, "Omnivore", true)
+    public Dog(string species, string size) : base(species, "Omnivore", true)
     {
-        Species = species;
+        this.species = species;
         this.size = size;
     }
 }

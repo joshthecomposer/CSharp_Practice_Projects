@@ -10,7 +10,8 @@ class Bird : Animal
 
     public Bird(string species, bool canFly) : base(species, "Omnivorous", canFly)
     {
-        Species = species;
+        this.species = species;
         this.canFly = canFly;
     }
+
 }

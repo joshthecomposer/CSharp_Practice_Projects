@@ -1,10 +1,10 @@
 class Cat : Animal
 {
-    string Breed;
+    string breed;
 
-    public Cat(string breed, string species) : base(species, "Omnivore",  true){
-        Species = species;
-        Breed = breed;
+    public Cat(string species, string breed) : base(species, "Omnivore",  true){
+        this.species = species;
+        this.breed = breed;
     }
 
 }
