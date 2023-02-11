@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/bin/Debug/net7.0/debugging_practice
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/bin/Debug/net7.0/debugging_practice.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/bin/Debug/net7.0/debugging_practice.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/bin/Debug/net7.0/debugging_practice.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/bin/Debug/net7.0/debugging_practice.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/refint/debugging_practice.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/debugging_practice.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/debugging_practice/obj/Debug/net7.0/ref/debugging_practice.dll
