@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/bin/Debug/net7.0/Puzzles
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/bin/Debug/net7.0/Puzzles.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/bin/Debug/net7.0/Puzzles.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/bin/Debug/net7.0/Puzzles.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/bin/Debug/net7.0/Puzzles.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/refint/Puzzles.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/Puzzles.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Puzzles/obj/Debug/net7.0/ref/Puzzles.dll
