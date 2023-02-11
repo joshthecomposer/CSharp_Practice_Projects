@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/bin/Debug/net7.0/GameDevPart1
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/bin/Debug/net7.0/GameDevPart1.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/bin/Debug/net7.0/GameDevPart1.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/bin/Debug/net7.0/GameDevPart1.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/bin/Debug/net7.0/GameDevPart1.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/refint/GameDevPart1.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/GameDevPart1.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/GameDevPart1/obj/Debug/net7.0/ref/GameDevPart1.dll
