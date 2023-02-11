@@ -1,9 +1,9 @@
-class Vehicle
+abstract class Vehicle
 {
-    string Name;
+    public string Name { get; set; }
     int NumPassengers;
     string Color;
-    bool HasEngine = true;
+    bool HasEngine;
     int Mileage = 0;
 
     public Vehicle(string name, int numPassengers,string color,bool hasEngine)

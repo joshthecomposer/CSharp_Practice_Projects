@@ -1,14 +1,25 @@
-﻿Vehicle geoPrism = new Vehicle("Geo Prism", 3, "Gray", true);
-Vehicle jeepWrangler = new Vehicle("Jeep Wrangler", "Black");
-Vehicle toyotaCamry = new Vehicle("Toyota Camry", "Blue");
-Vehicle nissanUltima = new Vehicle("Nissan Ultima", "Red");
+﻿Horse horse = new Horse("Prancer", "Brown");
 
-List<Vehicle> vehicles = new List<Vehicle>{geoPrism, jeepWrangler, toyotaCamry, nissanUltima};
+Car car = new Car("Geo Prism", "Gray and Blue", "Gas");
 
-foreach (Vehicle vehicle in vehicles)
-{
-    vehicle.ShowInfo();
-}
+Bicycle bike = new Bicycle("Schwinn", "Blue");
 
-toyotaCamry.Travel(100);
-toyotaCamry.ShowInfo();//This is essentially a big ol' getter method
+List<Vehicle> vehicles = new List<Vehicle>{
+    horse, car, bike
+};
+
+vehicles.ForEach(vehicle => Console.WriteLine(vehicle.Name));
+
+List<INeedFuel> f = new List<INeedFuel>();
+
+vehicles.ForEach(vehicle => {
+    if (vehicle is INeedFuel)
+    {
+        f.Add((INeedFuel)vehicle);
+    }
+});
+
+f.ForEach(vehicle => {
+    Console.WriteLine(vehicle.FuelType);
+    vehicle.GiveFuel(10);
+});
