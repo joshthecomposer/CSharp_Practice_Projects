@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/bin/Debug/net7.0/Fundamentals_II
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/bin/Debug/net7.0/Fundamentals_II.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/bin/Debug/net7.0/Fundamentals_II.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/bin/Debug/net7.0/Fundamentals_II.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/bin/Debug/net7.0/Fundamentals_II.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/refint/Fundamentals_II.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/Fundamentals_II.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/Fundamentals_II/obj/Debug/net7.0/ref/Fundamentals_II.dll
