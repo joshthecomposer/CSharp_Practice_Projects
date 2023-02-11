@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/bin/Debug/net7.0/RideMaker
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/bin/Debug/net7.0/RideMaker.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/bin/Debug/net7.0/RideMaker.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/bin/Debug/net7.0/RideMaker.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/bin/Debug/net7.0/RideMaker.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/refint/RideMaker.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/RideMaker.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/RideMaker/obj/Debug/net7.0/ref/RideMaker.dll
