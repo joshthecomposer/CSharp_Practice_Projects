@@ -1,10 +1,19 @@
-﻿Enemy e1 = new Enemy("Orc");
+﻿MeleeFighter melee = new MeleeFighter("Some Stanky Orc");
+RangedFighter ranged = new RangedFighter("Legolas");
+MagicCaster magic = new MagicCaster("Gandalf");
 
-Attack a1 = new Attack("Heavy Overhead", 10);
-Attack a2 = new Attack("Light Side Swipe", 5);
-Attack a3 = new Attack("Boop on the nose", 1);
+// melee.PerformAttack(magic, melee.Attacks[2]);
 
-List<Attack> attacks = new List<Attack>{a1, a2, a3};
-e1.Attacks = attacks;
+// magic.PerformAttack(ranged, magic.RandomAttack());
 
-e1.RandomAttack();
+magic.PerformAttack(melee, magic.RandomAttack());
+Console.WriteLine(melee.Health);
+magic.Heal(melee);
+Console.WriteLine(melee.Health);
+
+
+ranged.PerformAttack(melee, ranged.RandomAttack());
+
+ranged.Dash();
+
+ranged.PerformAttack(melee, ranged.RandomAttack());
