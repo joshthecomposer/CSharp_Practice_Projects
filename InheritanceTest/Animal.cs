@@ -1,13 +1,29 @@
 class Animal 
 {
-    public string Species;
-    public string Diet;
-    public bool IsMammal;
+    protected string species;
+    protected string diet;
+    protected bool isMammal;
+
+    public string Species 
+    {
+        get { return species; }
+        set { species = value; }
+    }
+    public string Diet 
+    {
+        get { return diet; }
+        set { diet = value; }
+    }
+    public bool IsMammal 
+    {
+        get { return isMammal; }
+        set { isMammal = value; }
+    }
 
     public Animal(string species, string diet, bool isMammal)
     {
-        Species = species;
-        Diet = diet;
-        IsMammal = isMammal;
+        this.species = species;
+        this.diet = diet;
+        this.isMammal = isMammal;
     }
 }

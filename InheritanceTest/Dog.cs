@@ -1,10 +1,16 @@
 class Dog : Animal
 {
-    public string Size;
+    string size;
+
+    public string Size
+    {
+        get { return this.size; }
+        set { this.size = value; }
+    }
 
     public Dog(string size, string species) : base(species, "Omnivore", true)
     {
         Species = species;
-        Size = size;
+        this.size = size;
     }
 }
