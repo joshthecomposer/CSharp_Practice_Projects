@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/bin/Debug/net7.0/DrinkMaker
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/bin/Debug/net7.0/DrinkMaker.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/bin/Debug/net7.0/DrinkMaker.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/bin/Debug/net7.0/DrinkMaker.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/bin/Debug/net7.0/DrinkMaker.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/refint/DrinkMaker.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/DrinkMaker.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/DrinkMaker/obj/Debug/net7.0/ref/DrinkMaker.dll
