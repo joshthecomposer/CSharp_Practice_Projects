@@ -1,0 +1,15 @@
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/bin/Debug/net7.0/InheritanceTest
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/bin/Debug/net7.0/InheritanceTest.deps.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/bin/Debug/net7.0/InheritanceTest.runtimeconfig.json
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/bin/Debug/net7.0/InheritanceTest.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/bin/Debug/net7.0/InheritanceTest.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.csproj.AssemblyReference.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.AssemblyInfoInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.AssemblyInfo.cs
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.csproj.CoreCompileInputs.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/refint/InheritanceTest.dll
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.pdb
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/InheritanceTest.genruntimeconfig.cache
+/Users/joshuawise/Documents/coding/coding_dojo/dotnet_Projects/fundamentals/InheritanceTest/obj/Debug/net7.0/ref/InheritanceTest.dll
