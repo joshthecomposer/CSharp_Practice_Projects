@@ -1,4 +1,4 @@
-class Enemy
+class Actor
 {
     string name;
     int health;
@@ -29,7 +29,7 @@ class Enemy
         get { return name; }
     }
 
-    public Enemy(string name, int health)
+    public Actor(string name, int health)
     {
         this.name = name;
         this.health = health;
@@ -53,11 +53,18 @@ class Enemy
         this.attacks.Add(attack);
     }
 
-    public virtual void PerformAttack(Enemy target, Attack attack)
+    public virtual void PerformAttack(Actor target, Attack attack)
     {
         target.Health -= attack.Damage;
 
         Console.WriteLine($"{this.name} attacks {target.Name} with {attack.Name} dealing {attack.Damage} damage.");
         Console.WriteLine($"{target.Name}'s health is {target.Health}.");
     }
+
+    public enum AttackEnum
+    {
+        
+
+    }
+
 }

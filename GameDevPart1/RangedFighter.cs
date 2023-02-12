@@ -1,4 +1,4 @@
-class RangedFighter : Enemy
+class RangedFighter : Actor
 {
     int distance;
 
@@ -18,7 +18,7 @@ class RangedFighter : Enemy
         };
     }
 
-    public override void PerformAttack(Enemy target, Attack attack)
+    public override void PerformAttack(Actor target, Attack attack)
     {
         if (this.distance > 10)
         {
@@ -27,8 +27,8 @@ class RangedFighter : Enemy
         else
         {
             Console.WriteLine($"{this.Name} is too close to {target.Name} to attack!");
+            this.Dash();
         }
-
     }
     public void Dash()
     {

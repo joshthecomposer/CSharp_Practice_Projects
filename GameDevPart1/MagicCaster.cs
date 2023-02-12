@@ -1,15 +1,15 @@
-class MagicCaster : Enemy
+class MagicCaster : Actor
 {
     public MagicCaster(string name) : base(name, 80)
     {
         this.Attacks = new List<Attack>{
             new Attack("Fireball", 25),
             new Attack("Lightning bolt", 20),
-            new Attack("Staff strik", 10)
+            new Attack("Staff strike", 10)
         };
     }
 
-    public void Heal(Enemy target)
+    public void Heal(Actor target)
     {
         if (target.Health + 40 >= target.BaseHealth)
         {

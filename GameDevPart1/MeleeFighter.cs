@@ -1,4 +1,4 @@
-class MeleeFighter : Enemy
+class MeleeFighter : Actor
 {
     public MeleeFighter(string name) : base(name, 120)
     {
@@ -8,7 +8,7 @@ class MeleeFighter : Enemy
             new Attack("Tackle", 25)
         };
     }
-    public void RageAttack(Enemy target)
+    public void RageAttack(Actor target)
     {
         Attack attack = RandomAttack();
         attack.Damage += 10;
